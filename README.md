@@ -90,4 +90,4 @@ Le simulateur implémente les mécaniques de combat Pokémon suivantes :
 
 ## Auteur
 
-Créé comme projet de programmation pour Ynov B2. 
+Tom MALLOR
